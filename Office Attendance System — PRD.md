@@ -206,3 +206,4 @@ Go live after milestone 3 — run it read-only alongside the current process for
 - [ ] Leave quotas: keep Labour Act baseline or set company numbers
 - [ ] Holiday list: load 2026–27 BD govt calendar at setup — who maintains it after?
 - [ ] Ramadan hours: confirm the override times before next Ramadan
+
